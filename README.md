@@ -1,7 +1,7 @@
-[![GitHub version](https://img.shields.io/github/release/jeffalyanak/check_namecheap.svg)](https://github.com/jeffalyanak/check_namecheap/releases/latest)
-[![License](https://img.shields.io/github/license/jeffalyanak/check_namecheap.svg)](https://github.com/jeffalyanak/check_namecheap/blob/master/LICENSE.txt)
-[![Donate](https://img.shields.io/badge/donate--green.svg)](https://jeff.alyanak.ca/donate)
-[![Matrix](https://img.shields.io/matrix/check_namecheap:social.rights.ninja.svg)](https://matrix.to/#/#check_namecheap:social.rights.ninja)
+[![GitHub version](https://img.shields.io/github/v/release/jeffalyanak/check_namecheap)](https://github.com/jeffalyanak/check_namecheap/releases/latest)
+[![License](https://img.shields.io/github/license/jeffalyanak/check_namecheap)](https://github.com/jeffalyanak/check_namecheap/blob/master/LICENSE)
+[![Donate](https://img.shields.io/badge/donate--green)](https://jeff.alyanak.ca/donate)
+[![Matrix](https://img.shields.io/badge/chat--green)](https://matrix.to/#/#check_namecheap:social.rights.ninja)
 
 # Namecheap Domain Expiry Checker
 
